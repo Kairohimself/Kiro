@@ -4,11 +4,10 @@
 ![status](https://api.statusbadges.me/badge/status/320532956412379136)
 
 ### I'm Listening To 🎧
-[![spotify]([![spotify](https://api.statusbadges.me/badge/spotify/754454148757323917)](https://api.statusbadges.me/openspotify/754454148757323917))
+[![spotify](https://api.statusbadges.me/badge/spotify/754454148757323917)](https://api.statusbadges.me/openspotify/754454148757323917)
 
 ### Coding
 ![vscode](https://api.statusbadges.me/badge/vscode/754454148757323917)
-
 
 ### Tools
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
