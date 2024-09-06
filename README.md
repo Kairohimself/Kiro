@@ -1,7 +1,7 @@
 # Hi There, I'm `Itskriox` -
 
 ### My Discord Status
-![status](https://api.statusbadges.me/badge/status/320532956412379136)
+![status](https://api.statusbadges.me/badge/status/754454148757323917)
 
 ### I'm Listening To 🎧
 [![spotify](https://api.statusbadges.me/badge/spotify/754454148757323917)](https://api.statusbadges.me/openspotify/754454148757323917)
